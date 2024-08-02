@@ -8,7 +8,6 @@ import {
   useMapContext,
   Marker
 } from "react-simple-maps";
-import { chakra } from "@chakra-ui/system";
 import json from './t.json';
 import { makers } from './BajaCaliforniaSur/makers';
 

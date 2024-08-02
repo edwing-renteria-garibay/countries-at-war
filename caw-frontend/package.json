@@ -1,5 +1,5 @@
 {
-  "name": "rww-frontend",
+  "name": "caw-frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,24 +10,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
     "@fontsource/roboto": "^5.0.13",
-    "@mui/icons-material": "^5.16.4",
-    "@mui/lab": "^5.0.0-alpha.172",
-    "@mui/material": "^5.16.4",
-    "@mui/styled-engine-sc": "^6.0.0-alpha.18",
-    "d3-geo-projection": "^4.0.0",
-    "framer-motion": "^11.3.21",
+    "@mui/icons-material": "^5.16.6",
+    "@mui/lab": "^5.0.0-alpha.173",
+    "@mui/material": "^5.16.6",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.25.1",
+    "react-router-dom": "^6.26.0",
     "react-simple-maps": "^3.0.0",
-    "react-svg-tooltip": "^0.0.11",
-    "react-svg-worldmap": "^2.0.0-alpha.16",
-    "react-world-countries-map": "^1.1.0",
-    "styled-components": "^6.1.12"
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
